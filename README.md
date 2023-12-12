@@ -1,1 +1,1 @@
-Local onde serão armazenados os projetos, códigos, imagens, e arquivos diversos utilizados nos projetos.
+Aqui serão armazenados os projetos, códigos, imagens, e arquivos diversos utilizados nos projetos. Aqui poderão ser encontrados sketches de arduino, arquivos de projetos de pcb (kicad), arquivos de modelagem 3d (fusion 360), entre outros.
